@@ -1,0 +1,95 @@
+https://privacy-dns.xyz/verify.dns
+ 
+ _______      __                        ______   ______  _______ 
+|   _   .----|__.--.--.---.-.----.--.--|   _  \ |   _  \|   _   |
+|.      |   _|  |  |  |  _  |  __|  |  |.  |   \|.  |   |   |___|
+|.  ____|__| |__|\___/|___._|____|___  |.  |    |.  |   |____   |
+|:  |                            |_____|:       |:  |   |:  |   |
+|::.|                                  |::.. . /|::.|   |::.. . |
+`---'                                  `------' `--- ---`-------'
+
+We, group of cypherpunkers operate the following domains/sub-domains:
+*.0xc0d3.xyz
+*.privacy-dns.xyz
+
+--------------------------------------------------------------------
+
+DNS domain names IPs:
+dns-fr.0xc0d3.xyz -> 51.15.226.116
+dns-nl.0xc0d3.xyz -> 51.15.43.202
+dns-pl.0xc0d3.xyz -> 151.115.49.115
+
+--------------------------------------------------------------------
+
+DNS IPs domain names:
+51.15.226.116 -> dns-fr.0xc0d3.xyz
+51.15.43.202 -> dns-nl.0xc0d3.xyz
+151.115.49.115 -> dns-pl.0xc0d3.xyz
+
+--------------------------------------------------------------------
+
+┌-SHA512 of all DNS IP adrresses:
+|
+|
+|--SHA512 France IP:
+|  └-- 51.15.226.116
+|     └-- 2a44ce63f1f1153629529d8bc3e0e121714d16e6a8eb12e349a4ace2289ee2e93bec07adca2eb9e632cd4b153c5ebb6e6480c942bebd7bdba84493806b645a1f
+|
+|--SHA512 Netherlands IP:
+|  └-- 51.15.43.202
+|     └-- 6418bea2ce002a9c960435ec24c666203cdddcd2be7cca703fd617b280edd41e408b92f2ae9d08ad2e1a7d4c99c29436a8d240138271828e36a52e674363ee5d
+|
+└--SHA512 Poland IP:
+   └-- 151.115.49.115
+       └-- 5ff70c6d5bd188efa937b3c31a7d090141d0d3f86f7449dc42f5b3fe69a21f44b1c664e765b68c191799de32e5948ddd9d5b8547068fafd5cd1f4c084d548ec5
+
+--------------------------------------------------------------------
+
+┌-SHA512 of all sub-domain names, DNS over HTTPS (DoH):
+|
+|
+|--SHA512 France sub-domain name:
+|  └-- https://dns-fr.0xc0d3.xyz/dns-query
+|      └-- b127b4d3a4c476f1056fbcdf0f0587c21ba4a708deb4857a738f71576cdfa1c1364466c42fdac557b92a8555d275bbfe8753ce88ffbf8f030bd5d558b75d53aa
+|
+|--SHA512 Netherlands sub-domain name:
+|  └-- https://dns-nl.0xc0d3.xyz/dns-query
+|      └-- bc8f8fec58bf0a0e51324b442acc38b7ef9e5465c6712bcb34fc6788cb20e2521b3f24ae3f3e55b5955635e25713dbe37a2ebfb16dbef2c4447915c51be34e86
+|
+└--SHA512 Poland sub-domain name:
+   └-- https://dns-pl.0xc0d3.xyz/dns-query
+       └-- 4c12e102ce7720b0420db98d8a048c2107a7cf7a46e76242186376e347a00a64c38f834bacadeedee26a998f2df86c463df28d8c6222c0d6ee840dd3158a6361
+
+--------------------------------------------------------------------
+
+┌-SHA512 of all sub-domain names, DNS over TLS (DoT):
+|
+|
+|--SHA512 France sub-domain name:
+|  └-- tls://dns-fr.0xc0d3.xyz:853
+|      └-- 302611e8caac256bb48d070d3944910be7dd7ed03f346e81e4bc98c8319b8b8277d57b7d6bbda3fd4bc1596f8af316262a3dbd01ca5228bae0bb01b1c65d6601
+|
+|--SHA512 Netherlands sub-domain name:
+|  └-- tls://dns-nl.0xc0d3.xyz:853
+|      └-- df5e2467393e1c6e533a0feaa5937ab2bb6529faf3cb02323e5a777c6027f4f0fed4a54ef7773cac1bb6f79de54eefa99638193315f87cf800d0cf1535c1cc57
+|
+└--SHA512 Poland sub-domain name:
+   └-- tls://dns-pl.0xc0d3.xyz:853
+       └-- 371b90f1e9e578eab78f103062a97b99b6da40de4f310bc8acbb75524d0173ff014a31d796d424490eb9305b10c41208f5ac08d0653bcb0fabf48f1097936e05
+
+--------------------------------------------------------------------
+
+┌-SHA512 of all sub-domain names, DNS over QUIC (DoQ):
+|
+|
+|--SHA512 France sub-domain name:
+|  └-- quic://dns-fr.0xc0d3.xyz:784
+|      └-- a5112f852fe23ad76d29d04730ff78f845fe47c70e24b1256fe4b4413ab486c60cf7810ce2665f7bd93eb1659f668e77a733beb71f2eaaf562b8c51dfb7b86a0
+|
+|--SHA512 Netherlands sub-domain name:
+|  └-- quic://dns-nl.0xc0d3.xyz:784
+|      └-- a857f973392222769e9b3ed6e8b02e03d0a35b3ff8a0be6dbec308b1b52ae943f76d3a894dbfc38cc50de7979e1635a0a7451e7f0c627cbae81dfc03604ed868
+|
+└--SHA512 Poland sub-domain name:
+   └-- quic://dns-pl.0xc0d3.xyz:784
+       └-- 39a64542b1148319a3c366e3a381e62b1b0516073696d3e996761eed09ae5ce230b78b81d49bc73ebd20e81698010e61ebff474d011bf1c9283004741a8877b6
